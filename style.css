@@ -1,0 +1,41 @@
+body{
+    background-color: cadetblue;
+    
+}
+h1{
+    text-align: center;
+
+}
+form{
+    font-size: 200%;
+    font-style: normal;
+    padding-left: 500px;
+
+}
+#gen1{
+padding-left: 70px;
+}
+#gen2{
+    padding-left: 70px;
+    }
+    #sub{
+        padding-left: 100px;
+        
+        }
+
+        header{padding-left: 400px;
+            background-color: brown;
+            text-decoration: none;
+        }
+
+        #lin{
+            padding-left: 10px;
+        text-decoration: none;
+        }
+        #lin1{
+        
+        text-decoration: none;
+        }
+        #info{
+            padding-left: 190px;
+        }
